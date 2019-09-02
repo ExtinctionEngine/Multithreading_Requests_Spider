@@ -1,6 +1,6 @@
 # -*- coding:utf8 -*-
 
-import urllib2
+import urllib3
 import time
 from bs4 import BeautifulSoup
 import sys
